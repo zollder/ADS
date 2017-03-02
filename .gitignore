@@ -1,0 +1,14 @@
+bin/
+build/
+target/
+release.properties
+buildNumber.properties
+db/
+*.classpath
+*.project
+*.buildpath
+.settings/
+.vertx/
+.gradle/
+node_modules/
+bower_components
